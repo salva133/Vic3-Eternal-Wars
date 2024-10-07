@@ -1,0 +1,12 @@
+{
+  "name" : "Eternal Wars",
+	"id" : "",
+  "version" : "0.0.001",
+  "supported_game_version" : "1.7.6",
+  "short_description" : "",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : false
+  }
+}
